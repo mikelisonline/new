@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Mikel & Daniella Wedding Day
+DESCRIPTION:Celebrate with us! All details on our website: https://www.mikeldaniella.day/
+DTSTART:20250927T110000Z
+DTEND:20250927T210000Z
+LOCATION:Gametxo Hotela (Barrio Gametxo, S/N, 48311 Ibarrangelu, Vizcaya, Biscay, Spain)
+END:VEVENT
+END:VCALENDAR
